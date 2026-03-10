@@ -17,7 +17,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   */
 
   // Modify the line of code BELOW to run a different exercise
-  exercise_19();
+  exercise_02();
   // Modify the line of code ABOVE to run a different exercise
 }
 
